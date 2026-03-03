@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "それは好きってこと (Preview)",
+  "base_artist": "可憐なアイボリー",
+  "createdAt": "2026-03-03T10:40:13.110493Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "それは好きってこと",
+      "artist": "可憐なアイボリー",
+      "has_synced": false,
+      "path": "select/pl_01_それは好きってこと_可憐なアイボリー.txt"
+    }
+  ]
+}
